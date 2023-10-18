@@ -2,7 +2,7 @@ const BLOG = {
   title: 'NCC-17039',
   author: 'NCC-17039',
   email: 'ncc-17039@foxmail.com',
-  link: 'https://b.spacemy.cn',
+  link: 'https://new.spacemy.cn',
   newsletter: '欢迎来到NCC-17039的小屋',
   description: '欢迎来到NCC-17039的小屋！请随便参观，无需多言哦。',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
